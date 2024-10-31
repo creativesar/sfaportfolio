@@ -35,9 +35,9 @@ const About = () => {
       <div className="text-white text-[26px] font-semibold font-['Poppins'] pl-16 pb-16">
         <h2>About</h2>
         <h3 className="w-[580px] h-[138px] text-[#e9e6e6] text-base font-normal font-['Poppins'] py-5">
-          Having 5+ years of experience in graphic design and web development, I've worked with over 10 companies on diverse projects.
+          Having 5+ years of experience in graphic design and web development, I have worked with over 10 companies on diverse projects.
           <br />
-          As a creative UI/UX designer and front-end web developer, I'm dedicated to crafting exceptional digital experiences.
+          As a creative UI/UX designer and front-end web developer, I am dedicated to crafting exceptional digital experiences.
         </h3>
         <div className="flex items-center mt-8">
           <div className="w-[139px] h-[40px] p-2 bg-white rounded-[15px] shadow inline-flex hover:bg-gradient-to-b from-[#65b5dd] to-[#366177]">
