@@ -23,8 +23,8 @@ const About = () => {
 
         {/* About Image */}
         <Image
-          src="/images/image-01.png"
-          alt="Image"
+          src="/images/about-image.png"
+          alt="about"
           width={300}
           height={300}
           className="rounded-[10px] -ml-32"
